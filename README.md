@@ -1,10 +1,9 @@
-### Olá, meu nome é Ana Paula de Góis
+# Hi, I'm Ana Paula de Góis 👋
 
+### Computer Vision & Machine Learning Engineer
 
-- 🌱 Atualmente estou estudando Angular e Python 
+Building real-world AI systems with a focus on **Computer Vision, Deep Learning, Video AI, and ML Engineering**.
 
+I work across the end-to-end ML lifecycle from **large-scale dataset engineering and model training to optimization, automation, and real-time inference**.
 
-<div align="center">
-  <a href="https://github.com/apsgois">
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apsgois&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsgois&layout=compact&langs_count=7&theme=Gradient"/>
+`Python` · `PyTorch` · `OpenCV` · `Computer Vision` · `Deep Learning` · `MLOps`
