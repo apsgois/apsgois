@@ -12,8 +12,8 @@
 
 <br/><br/>
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/apsgois/)">
-<img src="https://img.shields.io/badge/LinkedIn-Ana_Paula-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/apsgois/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ana_Paula-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:apsgois@outlook.com">
